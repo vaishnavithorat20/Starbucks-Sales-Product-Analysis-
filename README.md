@@ -24,6 +24,6 @@ Once the data was cleaned and structured, I visualized it using Power BI to crea
 📈 Skills Applied: Data Analysis, Joins, Window Functions, CTEs, Grouping, CASE Statements, Dashboard Design
 
 Would love to hear your feedback or suggestions!
-
+Link-https://github.com/vaishnavithorat20/Starbucks-Sales-Product-Analysis-/blob/main/Screenshot%20StarBucks.png
 
 #SQL #PowerBI #DataAnalytics #StarbucksProject #MSQLServer #BusinessIntelligence #DashboardDesign #WomenInTech
